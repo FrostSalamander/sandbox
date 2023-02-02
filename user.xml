@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<user>
+  <game>
+    <type value="The Dark Mod 2.0 (Standalone)"/>
+    <fs_game value="fms/fsx"/>
+    <fs_game_base value=""/>
+  </game>
+  <ui>
+    <gameSetup>
+      <tdm>
+        <fmFolderHistory>
+          <folder value="C:/games/darkmod/fms/fsx/"/>
+        </fmFolderHistory>
+      </tdm>
+    </gameSetup>
+    <language value="0" volatile="1"/>
+    <camera>
+      <showToolbar value="1"/>
+      <dragSelectionEnabled value="0"/>
+      <enableCubicClipping value="0"/>
+      <gridEnabled value="0"/>
+      <invertMouseVerticalAxis value="1"/>
+      <drawMode value="2"/>
+    </camera>
+    <mainFrame>
+      <propertyPanel>
+        <lastShownPage value="EntityInspector"/>
+        
+      <pages><page controlName="EntityInspector"/><page controlName="MediaBrowser"/><page controlName="FavouritesBrowser"/><page controlName="TextureBrowser"/><page controlName="TextureTool"/><page controlName="SurfaceInspector"/><page controlName="TransformPanel"/><page controlName="PatchInspector"/><page controlName="AIEditingPanel"/><page controlName="Console"/><page controlName="ScriptPanel"/><page controlName="LayerControlPanel"/></pages> </propertyPanel>
+      <aui>
+        <layoutVersion value="1"/>
+        <perspective value="layout2|name=Camera;caption=Camera;state=4200445;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=250;minw=128;minh=128;maxw=-1;maxh=-1;floatx=2553;floaty=0;floatw=1294;floath=1399|name=PropertiesPanel;caption=Properties;state=6293501;dir=4;layer=0;row=0;pos=1;prop=100000;bestw=200;besth=250;minw=200;minh=250;maxw=-1;maxh=-1;floatx=3833;floaty=0;floatw=1294;floath=1399|name=OrthoView;caption=2D View;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=250;minw=200;minh=250;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|"/>
+        
+        
+        
+      <panes><pane controlName="Camera" paneName="Camera"/><pane controlName="PropertiesPanel" paneName="PropertiesPanel"/><pane controlName="OrthoView" paneName="OrthoView"/></panes> <floatingPaneLocations><pane paneName="MapMergePanel" state="name=MapMergePanel;caption=Merge Map;state=6297597;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=128;besth=128;minw=128;minh=128;maxw=-1;maxh=-1;floatx=52;floaty=52;floatw=380;floath=440"/><pane paneName="OrthoBackgroundPanel" state="name=OrthoBackgroundPanel;caption=XY Background Image;state=6297597;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=128;besth=128;minw=128;minh=128;maxw=-1;maxh=-1;floatx=26;floaty=26;floatw=480;floath=350"/></floatingPaneLocations> <dockedPaneLocations/> </aui>
+      <window xPosition="-8" yPosition="-8" width="2576" height="1408" state="1"/>
+    </mainFrame>
+    <entityInspector>
+      <pane>
+        <splitter position="431"/>
+      </pane>
+      <showInheritedProperties value="1"/>
+    </entityInspector>
+    <map>
+      <maxSnapshotFolderSize value="1024"/>
+      <snapshotFolder value="snapshots/"/>
+      <numMRU value="5"/>
+      <autoSaveEnabled value="0"/>
+      <suppressMapLoadDialog value="0"/>
+      
+        <MRU><map1 value="C:/games/darkmod/fms/fsx/maps/fsx.map"/> <map2 value="fms/hits1/maps/man2.map"/> </MRU> </map>
+    <brush>
+      <textureLock value="1"/>
+      <emitCSGSubtractWarning value="0"/>
+    </brush>
+    <multiMonitor>
+      <startMonitorNum value="2"/>
+    </multiMonitor>
+    <xyview>
+      <recent origin="69.2273 1898.42 183.476" scale="11.641770"/>
+    </xyview>
+    <filtersystem>
+      
+      
+      
+      
+      
+      
+    <activeFilter name="Clip Textures"/><activeFilter name="Collision surfaces"/><activeFilter name="Location Entities"/><activeFilter name="Paths"/><activeFilter name="Player Start Entity"/><activeFilter name="Visportals"/> </filtersystem>
+    <grid>
+      <defaultGridPower value="4"/>
+      <minorGridLook value="0"/>
+    </grid>
+    <scriptWindow>
+      <splitter position="200"/>
+    </scriptWindow>
+    <clipper>
+      <caulkTexture value="textures/common/caulk"/>
+    </clipper>
+    <textures>
+      <defaultTextureScale value="0.200000"/>
+      <browser>
+        <mouseWheelIncrement value="64"/>
+        <uniformSize value="128"/>
+      </browser>
+      <surfaceInspector>
+        <rotStep value="90"/>
+      </surfaceInspector>
+      <texTool>
+        <rotateAngle value="90.000000"/>
+      </texTool>
+    </textures>
+    <vcs>
+      <git>
+        <autoFetchEnabled value="0"/>
+      </git>
+    </vcs>
+    <renderPreview>
+      <showGrid value="0"/>
+    </renderPreview>
+    <modelSelector>
+      <splitPos>
+        <splitter position="0"/>
+      </splitPos>
+      <lastSelectedModel value="models/darkmod/junk/dirt_edge02_grass.lwo"/>
+    </modelSelector>
+    <windowStates>
+      <SkinChooser xPosition="384" yPosition="144" width="1780" height="1104" lastSelectedDeclName="red_flower_1">
+        <selectorSplitter position="0"/>
+      </SkinChooser>
+      <EntityClassChooser xPosition="384" yPosition="144" width="1780" height="1104" lastSelectedDeclName="atdm:ai_thief_thug">
+        <selectorSplitter position="0"/>
+      </EntityClassChooser>
+      <SoundChooser xPosition="640" yPosition="216" width="1268" height="960" lastSelectedDeclName="bar_commotion02_loop"/>
+    </windowStates>
+    <showAllLightRadii value="0"/>
+    <prefabSelector>
+      <splitPos>
+        <splitter position="0"/>
+      </splitPos>
+      <lastPrefabPath value="C:\projects\github\darkmod-maps\prefabs"/>
+      <recentPaths><path value="c:\projects\github\darkmod-maps\prefabs"/></recentPaths>
+    </prefabSelector>
+    <materialEditor>
+      <lastSelectedMaterial value="textures/darkmod/stone/brick/mossy_green_rough_blocks"/>
+      <lightModeEnabled value="0"/>
+      <previewLightClassname value="light_torchflame"/>
+      <previewRoomMaterial value="textures/darkmod/stone/brick/blocks_brown"/>
+      <previewObjectType value="Cube"/>
+      <previewViewOrigin value="100 100 100"/>
+      <previewViewAngles value="37 135 0"/>
+      <window xPosition="0" yPosition="0" width="2048" height="1296"/>
+    </materialEditor>
+    <transformPanel>
+      <rotYStep value="45"/>
+    </transformPanel>
+    
+  <favourites><EntityDef><favourite value="atdm:mover_door"/><favourite value="info_location"/><favourite value="info_locationSeparator"/><favourite value="path_corner"/><favourite value="path_sit"/></EntityDef> <Material><favourite value="textures/common/caulk"/><favourite value="textures/common/clip"/><favourite value="textures/common/monster_clip"/><favourite value="textures/darkmod/wood/boards/rough_wood_sand"/></Material> <model/> <SoundShader/> </favourites> </ui>
+  <paths>
+    <enginePath value="C:/games/darkmod/"/>
+    <modPath value="C:/games/darkmod/fms/fsx/"/>
+    <modBasePath value=""/>
+  </paths>
+  <version value="3.7.0"/>
+</user>
